@@ -2,20 +2,20 @@
 
 ###What is your name?
 
-Your answer goes here
+Valentina
 
 ###What is your favorite color?
 
-Your answer goes here
+Turquoise
 
 ###Cats or Dogs?
 
-Your answer goes here
+Dogs
 
 ###What would constitute a “perfect” day for you?
 
-Your answer goes here
+Sun, Ocean, Physical activity, Loved ones, and a great meal.
 
 ###Given the choice of anyone in the world, whom would you want as a dinner guest?
 
-Your answer goes here
+Glen Keane
